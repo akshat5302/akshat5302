@@ -1,9 +1,10 @@
 <h1 align="center">Hi 👋, I'm Akshat Jain</h1>
 <h3 align="center">Student at JECRC Foundation,India 🌟.</h3>
 
-
+<br>
 
 <p><img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="adam-pw" /></p>
+
 
 - 🌱 I’m currently learning **Machine Learning** and **DEV-ops**
 
@@ -82,10 +83,11 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akshat5302&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="akshat5302" /></p>
 
-<!-- <br>
+<br>
+
 <h3>Trophies :-</h3>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img
-      src="https://github-profile-trophy.vercel.app/?username=akshat5302&bg_color=0d1117&text_color=ffffff" alt="akshat5302" /></a> </p> -->
+      src="https://github-profile-trophy.vercel.app/?username=akshat5302&bg_color=0d1117&text_color=ffffff" alt="akshat5302" /></a> </p> 
       
 <p align="left"> <a href="https://twitter.com/" target="blank"><img
       src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
