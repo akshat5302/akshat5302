@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **akshatjain9782@gmail.com**
 
-- ⚡ Fun fact :- **Cricket** is the secret of my Energy.
+- ⚡ Fun fact :- **Humans** are the Only Animals That Enjoy Spicy Foods..
 
 <br>
 
